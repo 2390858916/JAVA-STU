@@ -4,10 +4,10 @@ import java.awt.event.*;
 import javax.swing.*;
 public class Demo {
     public static void main(String[] args) {
-        Frame fra = new Frame("湛江科技学院学生信息管理系统");
+        Frame fra = new Frame("????????????????????");
         FlowLayout flow = new FlowLayout();
-        Button bt1 = new Button("登陆系统");
-        Button bt2 = new Button("退出系统");
+        Button bt1 = new Button("?????");
+        Button bt2 = new Button("?????");
         bt1.setBounds(85,300,70,40);
         bt2.setBounds(350,300,70,40);
         bt2.addActionListener(new ActionListener() {
@@ -16,7 +16,7 @@ public class Demo {
                 System.exit(0);
             }
         });
-        TextField text1 = new TextField("湛江科技学院欢迎您!");
+        TextField text1 = new TextField("????1?????????!");
         Font f2 = new Font("font",10,26);
         text1.setFont(f2);
         text1.setBackground(Color.GREEN);

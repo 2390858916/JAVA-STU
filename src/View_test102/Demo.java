@@ -12,13 +12,13 @@ public class Demo {
     public static void main(String[] args) {
         ImageIcon imageIcon = new ImageIcon("img1.png");
         JLabel jlabel=new JLabel(imageIcon);
-        Frame frame = new Frame("岭南师范学院信息管理系统");
-        Label label1 = new Label("学号:");
-        Label label2 = new Label("密码:");
+        Frame frame = new Frame("??????????????????");
+        Label label1 = new Label("???:");
+        Label label2 = new Label("????:");
         TextField textField1 = new TextField(20);
         TextField textField2 = new TextField(20);
-        Button button1 = new Button("登录");
-        Button button2 = new Button("退出");
+        Button button1 = new Button("???");
+        Button button2 = new Button("???");
         Font font = new Font("Serief",Font.BOLD ,18);
         frame.setBounds(0, 0, 700,500);
         frame.setBackground(Color.WHITE);
