@@ -4,9 +4,185 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/ArraysDemo/Demo.java" afterDir="false" />
+    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="arrays">
+      <change afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo1/ef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasesTypePackaging/IntergerDemo01/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIY_Import/e.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Extends/d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrtherDemo/e.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TryCatchDemo/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ViewDemo/View_test102/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ViewDemo/dmeo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDemo1/AniamlDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo1/AniamlDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDemo1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDemo1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDemo1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDemo2/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo2/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDemo2/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo2/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDemo2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo2/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDemo3/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo3/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDemo3/AnimaleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo3/AnimaleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDemo3/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo3/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractDemo3/God.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/AbstractDemo3/God.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysDemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstracDemo0/demo/ArraysDemo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DONGTAIdEMO/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/DONGTAIdEMO/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DONGTAIdEMO/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/DONGTAIdEMO/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DONGTAIdEMO/animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/DONGTAIdEMO/animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DONGTAIdEMO/animalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/DONGTAIdEMO/animalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DONGTAIdEMO/animalopreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/DONGTAIdEMO/animalopreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DUOTAI/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/DUOTAI/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DUOTAI/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/DUOTAI/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DUOTAI/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/DUOTAI/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DUOTAI03zhuanxing/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/DUOTAI03zhuanxing/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DUOTAI03zhuanxing/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/DUOTAI03zhuanxing/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DUOTAI03zhuanxing/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/DUOTAI03zhuanxing/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FWEF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathDemo/MathDeni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/MathDemo/MathDeni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReturnUseClass/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/ReturnUseClass/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReturnUseClass/CatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/ReturnUseClass/CatDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReturnUseClass/CatOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/ReturnUseClass/CatOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReturnuseAbstract/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/ReturnuseAbstract/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReturnuseAbstract/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/ReturnuseAbstract/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReturnuseAbstract/AnimalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/ReturnuseAbstract/AnimalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReturnuseAbstract/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/ReturnuseAbstract/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringBuilderDemo/StringBuilderAppend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/StringBuilderDemo/StringBuilderAppend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringBuilderDemo/StringBuilderTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/StringBuilderDemo/StringBuilderTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringBuilderDemo/Stringreverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/StringBuilderDemo/Stringreverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringBuilderDemo/Stringtransition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/StringBuilderDemo/Stringtransition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringDemo/Stringtest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/StringDemo/Stringtest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringDemo/Stringuse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/StringDemo/Stringuse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringDemo/compare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/StringDemo/compare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringDemo/reversechar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/StringDemo/reversechar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringDemo/splicingcharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/StringDemo/splicingcharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringDemo/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/StringDemo/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringDemo/userlogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/StringDemo/userlogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Studenttest/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/Studenttest/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Studenttest/Studentinput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/Studenttest/Studentinput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Studenttest/mains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/Studenttest/mains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST12/JCheckBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/TEST12/JCheckBoxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST12/JComboBoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/TEST12/JComboBoxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST12/JFrameDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/TEST12/JFrameDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST12/JOptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/TEST12/JOptionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST12/JRadioDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/TEST12/JRadioDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST12/JTextFieldDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/TEST12/JTextFieldDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View_test102/1" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasesTypePackaging/1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View_test102/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/View_test102/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View_test102/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/View_test102/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View_test102/img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/View_test102/img1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View_test102/ppp.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/View_test102/ppp.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View_test102/ppp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/View_test102/ppp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/circle/Cicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/circle/Cicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/circle/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/circle/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/circle/DEMO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/circle/DEMO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crycatch/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryCatchDemo/crycatch/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crycatch/crycatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryCatchDemo/crycatch/crycatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crycatch2/exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryCatchDemo/crycatch2/exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crycatch3/excepction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryCatchDemo/crycatch3/excepction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crycatch4/crythow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryCatchDemo/crycatch4/crythow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/arraydemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/demo/arraydemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/hellow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/demo/hellow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duotai04/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/duotai04/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duotai04/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/duotai04/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duotai04/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/duotai04/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duotai5/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/duotai5/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duotai5/AnimalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/duotai5/AnimalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duotai5/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/duotai5/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duotai5/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/duotai5/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extendsDemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/extendsDemo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extendsDemo/fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/extendsDemo/fu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extendsDemo/son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/extendsDemo/son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extendsDemo2/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/extendsDemo2/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extendsDemo2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/extendsDemo2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extendsDemo2/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/extendsDemo2/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extendsDouble/fa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/extendsDouble/fa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extendsDouble/gu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/extendsDouble/gu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extendsDouble/son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/extendsDouble/son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/finaDemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/finaDemo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/finaDemo/fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/finaDemo/fu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/finaDemo/zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/finaDemo/zi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/finalDemo2/finalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/finalDemo2/finalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/finalDemo2/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extends/finalDemo2/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/importin/impotbro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DIY_Import/importin/impotbro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/importout/deriveout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DIY_Import/importout/deriveout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inerfacetest8/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inerfacetest8/innerfaceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inerfacetest8/praent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inerfacetest8/student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inerfacetest8/teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inerfacetest9/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inerfacetest9/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inerfacetest9/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inerfacetest9/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/innerClass/first.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/innerClass2/InnerDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/innerClass2/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/innerclass4/Inter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/innerclass4/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/innerclass4/outerdemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/innerclassmiming/Inter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/innerclassmiming/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/innerclassmiming/innerclassDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo/Jumping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo/JumpingDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo2/Inter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo2/Interlmpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo2/interfaceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo3/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo3/AnimalDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo3/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo3/Jumpping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo4/BasketballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo4/BasketballPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo4/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo4/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo4/PersonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo4/PingPangCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo4/PingPangPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo4/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceDemo4/SpeakEnglish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/arrayloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/method/arrayloop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/arraymax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/method/arraymax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/arrayreserve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/method/arrayreserve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/arrayselect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/method/arrayselect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/loop_vinfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/method/loop_vinfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/methodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/method/methodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/selectarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/method/selectarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/setCpuScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/method/setCpuScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/method/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/method/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/packageDemo1/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DIY_Import/packageDemo1/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/packageDemo2/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DIY_Import/packageDemo2/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staticDemo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/staticDemo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staticDemo/staicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/staticDemo/staicDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stringcompare/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/stringcompare/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stringcompare/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/stringcompare/demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/studenttests/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/studenttests/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/studenttests/Undergraduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/studenttests/Undergraduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/studenttests/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/studenttests/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/test/animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/test/cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/test/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/test/dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test6/cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/test6/cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test6/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/test6/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test61/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/test61/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test61/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/test61/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text06/Newphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/text06/Newphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text06/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/text06/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text06/PhoneDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrtherDemo/text06/PhoneDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/veiw_border/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/veiw_border/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view_Flowlayout/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/view_Flowlayout/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view_Girdlayout/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/view_Girdlayout/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view_buttom/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/view_buttom/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view_buttom/view_changeBackColor2/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/view_buttom/view_changeBackColor2/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view_label/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/view_label/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view_test10/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/view_test10/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view_text/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewDemo/view_text/demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +192,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -71,7 +248,7 @@
       <workItem from="1673349655687" duration="66000" />
       <workItem from="1673349936793" duration="192000" />
       <workItem from="1673350138381" duration="751000" />
-      <workItem from="1673350901620" duration="451000" />
+      <workItem from="1673350901620" duration="3120000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -94,7 +271,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672145139432</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="arrays">
+      <created>1673351472555</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673351472555</updated>
+    </task>
+    <task id="LOCAL-00005" summary="arrays">
+      <created>1673351621539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673351621539</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +305,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="COMMIT" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrays" />
   </component>
 </project>
