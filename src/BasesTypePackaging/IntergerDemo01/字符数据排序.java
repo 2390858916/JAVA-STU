@@ -1,4 +1,4 @@
-package BasesTypePackaging;
+package BasesTypePackaging.IntergerDemo01;
 
 import java.util.Arrays;
 

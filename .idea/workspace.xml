@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="re set">
-      <change afterPath="$PROJECT_DIR$/src/BasesTypePackaging/String类型转换.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasesTypePackaging/字符数据排序.java" afterDir="false" />
+    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="int tran string">
+      <change afterPath="$PROJECT_DIR$/src/BasesTypePackaging/Date/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasesTypePackaging/Date/SimpleDateFormatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasesTypePackaging/IntergerDemo01/装箱和拆箱.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasesTypePackaging/字符数据排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasesTypePackaging/IntergerDemo01/字符数据排序.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +77,8 @@
       <workItem from="1673349936793" duration="192000" />
       <workItem from="1673350138381" duration="751000" />
       <workItem from="1673350901620" duration="7280000" />
-      <workItem from="1673425515887" duration="1402000" />
+      <workItem from="1673425515887" duration="2238000" />
+      <workItem from="1673428558970" duration="5601000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -133,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673354556333</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="int tran string">
+      <created>1673427106791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673427106791</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +165,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="arrays" />
     <MESSAGE value="re set" />
-    <option name="LAST_COMMIT_MESSAGE" value="re set" />
+    <MESSAGE value="int tran string" />
+    <option name="LAST_COMMIT_MESSAGE" value="int tran string" />
   </component>
 </project>
