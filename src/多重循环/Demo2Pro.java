@@ -1,5 +1,4 @@
 package ∂‡÷ÿ—≠ª∑;
-
 public class Demo2Pro {
     public static void main(String[] args) {
         int totalLevel = 10;
