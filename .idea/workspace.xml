@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="for">
-      <change afterPath="$PROJECT_DIR$/src/多重循环/random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多重循环/for_break.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/多重循环/Demo2Pro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多重循环/Demo2Pro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,20 +55,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.random">
-    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多重循环.Demo01" />
-      <module name="JAVA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="多重循环.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.for_break">
     <configuration name="Demo2Pro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="多重循环.Demo2Pro" />
       <module name="JAVA1" />
@@ -85,6 +71,19 @@
     </configuration>
     <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="多重循环.demo2" />
+      <module name="JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="多重循环.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="for_break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多重循环.for_break" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.for_break" />
         <item itemvalue="应用程序.random" />
         <item itemvalue="应用程序.Demo2Pro" />
         <item itemvalue="应用程序.demo2" />
         <item itemvalue="应用程序.jiujiu" />
-        <item itemvalue="应用程序.Demo01" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +152,7 @@
       <workItem from="1673350901620" duration="7280000" />
       <workItem from="1673425515887" duration="2238000" />
       <workItem from="1673428558970" duration="5813000" />
-      <workItem from="1673490889793" duration="18536000" />
+      <workItem from="1673490889793" duration="22173000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -239,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673522941733</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="for">
+      <created>1673527184504</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673527184504</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
