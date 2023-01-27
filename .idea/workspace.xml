@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="for">
-      <change afterPath="$PROJECT_DIR$/src/Arraylist/Demo7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arraylist/Demo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arraylist/数组扩容.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.ArrayDemo">
+  <component name="RunManager" selected="应用程序.数组扩容">
+    <configuration name="数组扩容" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arraylist.数组扩容" />
+      <module name="JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arraylist.ArrayDemo" />
       <module name="JAVA1" />
@@ -82,19 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dmeo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="textDemo.Dmeo7" />
-      <module name="JAVA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="textDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Dmeo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="textDemo.Dmeo8" />
       <module name="JAVA1" />
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="importA_z" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="textDemo.importA_z" />
+    <configuration name="Studentinput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrtherDemo.Studenttest.Studentinput" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="textDemo.*" />
+          <option name="PATTERN" value="OrtherDemo.Studenttest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.数组扩容" />
+        <item itemvalue="应用程序.Studentinput" />
         <item itemvalue="应用程序.ArrayDemo" />
         <item itemvalue="应用程序.ArrayDemo1" />
         <item itemvalue="应用程序.Dmeo8" />
-        <item itemvalue="应用程序.Dmeo7" />
-        <item itemvalue="应用程序.importA_z" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,17 @@
       <workItem from="1673674179736" duration="8000" />
       <workItem from="1673674609245" duration="8628000" />
       <workItem from="1674063292292" duration="146000" />
-      <workItem from="1674098976231" duration="250000" />
+      <workItem from="1674098976231" duration="431000" />
+      <workItem from="1674183555012" duration="108000" />
+      <workItem from="1674183675173" duration="300000" />
+      <workItem from="1674202576880" duration="1384000" />
+      <workItem from="1674208878855" duration="1682000" />
+      <workItem from="1674261184219" duration="3239000" />
+      <workItem from="1674354829252" duration="593000" />
+      <workItem from="1674386029607" duration="456000" />
+      <workItem from="1674653027321" duration="599000" />
+      <workItem from="1674725507589" duration="521000" />
+      <workItem from="1674788736706" duration="1007000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -261,7 +271,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673586417363</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="for">
+      <created>1674099230716</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674099230716</updated>
+    </task>
+    <task id="LOCAL-00016" summary="for">
+      <created>1674099372834</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674099372834</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,5 +312,9 @@
     <MESSAGE value="xunhuan" />
     <MESSAGE value="for" />
     <option name="LAST_COMMIT_MESSAGE" value="for" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
