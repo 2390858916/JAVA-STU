@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="array">
-      <change afterPath="$PROJECT_DIR$/src/Arraylist/二维数组/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arraylist/二维数组/Demo4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +60,13 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Demo3">
-    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多重循环.Demo01" />
+  <component name="RunManager" selected="应用程序.冒泡">
+    <configuration name="冒泡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.冒泡" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="多重循环.*" />
+          <option name="PATTERN" value="排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,19 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2Pro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多重循环.Demo2Pro" />
-      <module name="JAVA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="多重循环.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arraylist.二维数组.Demo3" />
       <module name="JAVA1" />
@@ -113,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="冒泡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序.冒泡" />
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arraylist.二维数组.Demo4" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="排序.*" />
+          <option name="PATTERN" value="Arraylist.二维数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.冒泡" />
+        <item itemvalue="应用程序.Demo4" />
         <item itemvalue="应用程序.Demo3" />
         <item itemvalue="应用程序.Demo2" />
         <item itemvalue="应用程序.demo2" />
-        <item itemvalue="应用程序.Demo2Pro" />
-        <item itemvalue="应用程序.Demo01" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +187,8 @@
       <workItem from="1675044648722" duration="6091000" />
       <workItem from="1675133531834" duration="1193000" />
       <workItem from="1675176418250" duration="146000" />
-      <workItem from="1675241208625" duration="11140000" />
+      <workItem from="1675241208625" duration="11224000" />
+      <workItem from="1675304598465" duration="5219000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -335,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675077482389</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="array">
+      <created>1675269140191</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675269140191</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
