@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="array">
-      <change afterPath="$PROJECT_DIR$/src/类与对象/对象创建及使用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/类与对象/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/类与对象/成员方法/Method1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +61,13 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.冒泡">
-    <configuration name="冒泡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序.冒泡" />
+  <component name="RunManager" selected="应用程序.Method1 (3)">
+    <configuration name="Method1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.成员方法.Method1" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="排序.*" />
+          <option name="PATTERN" value="类与对象.成员方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arraylist.二维数组.Demo2" />
+    <configuration name="Method1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.成员方法.Method1" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arraylist.二维数组.*" />
+          <option name="PATTERN" value="类与对象.成员方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arraylist.二维数组.Demo3" />
+    <configuration name="Method1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.成员方法.Method1" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arraylist.二维数组.*" />
+          <option name="PATTERN" value="类与对象.成员方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arraylist.二维数组.Demo4" />
+    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.成员方法.Method1" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arraylist.二维数组.*" />
+          <option name="PATTERN" value="类与对象.成员方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多重循环.demo2" />
+    <configuration name="类与对象.Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.Demo2" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="多重循环.*" />
+          <option name="PATTERN" value="类与对象.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.冒泡" />
-        <item itemvalue="应用程序.Demo4" />
-        <item itemvalue="应用程序.Demo3" />
-        <item itemvalue="应用程序.Demo2" />
-        <item itemvalue="应用程序.demo2" />
+        <item itemvalue="应用程序.Method1 (3)" />
+        <item itemvalue="应用程序.Method1 (2)" />
+        <item itemvalue="应用程序.Method1" />
+        <item itemvalue="应用程序.Method1 (1)" />
+        <item itemvalue="应用程序.类与对象.Demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +192,8 @@
       <workItem from="1675304598465" duration="5827000" />
       <workItem from="1675334193145" duration="3517000" />
       <workItem from="1675389770652" duration="605000" />
-      <workItem from="1675476879586" duration="606000" />
+      <workItem from="1675476879586" duration="624000" />
+      <workItem from="1675562654673" duration="6801000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -340,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675310173193</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="array">
+      <created>1675505765480</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1675505765481</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
