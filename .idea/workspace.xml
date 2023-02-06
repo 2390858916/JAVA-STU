@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="array">
-      <change afterPath="$PROJECT_DIR$/src/类与对象/成员方法/MethodDetail01.java" afterDir="false" />
+    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +192,7 @@
       <workItem from="1675389770652" duration="605000" />
       <workItem from="1675476879586" duration="624000" />
       <workItem from="1675562654673" duration="7103000" />
-      <workItem from="1675663591604" duration="5755000" />
+      <workItem from="1675663591604" duration="6584000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -363,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675668812694</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="class">
+      <created>1675672977133</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1675672977133</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +397,8 @@
     <MESSAGE value="for" />
     <MESSAGE value="do_while" />
     <MESSAGE value="array" />
-    <option name="LAST_COMMIT_MESSAGE" value="array" />
+    <MESSAGE value="class" />
+    <option name="LAST_COMMIT_MESSAGE" value="class" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
