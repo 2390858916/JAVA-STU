@@ -32,7 +32,7 @@ class Person{
         System.out.println(res);
     }
     public int getSum(int a,int b){
-        int sum = a+b;
-        return sum;
+        return a+b;
     }
+
 }
