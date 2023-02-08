@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="class">
-      <change afterPath="$PROJECT_DIR$/src/类与对象/成员方法/CloneMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/类与对象/成员方法/基本数据传参机制.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/类与对象/方法递归调用/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/类与对象/方法递归调用/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +46,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/zhong/桌面/JAVA-STU&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/33993/Desktop/Java2dGeme&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -61,7 +63,7 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.CloneMethod">
+  <component name="RunManager" selected="应用程序.Demo1">
     <configuration name="基本数据传参机制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="类与对象.成员方法.基本数据传参机制" />
       <module name="JAVA1" />
@@ -88,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="类与对象.成员方法.Method1" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.Demo1" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="类与对象.成员方法.*" />
+          <option name="PATTERN" value="类与对象.方法递归调用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodDetail01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="类与对象.成员方法.MethodDetail01" />
+    <configuration name="Method1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.成员方法.Method1" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +131,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.CloneMethod" />
+        <item itemvalue="应用程序.Demo1" />
         <item itemvalue="应用程序.基本数据传参机制" />
+        <item itemvalue="应用程序.CloneMethod" />
         <item itemvalue="应用程序.Method1 (2)" />
       </list>
     </recent_temporary>
@@ -207,6 +210,12 @@
       <workItem from="1675751919715" duration="300000" />
       <workItem from="1675752230963" duration="32000" />
       <workItem from="1675753641813" duration="6601000" />
+      <workItem from="1675833189745" duration="113000" />
+      <workItem from="1675833319299" duration="1187000" />
+      <workItem from="1675839485743" duration="97000" />
+      <workItem from="1675839696383" duration="3614000" />
+      <workItem from="1675908901767" duration="3539000" />
+      <workItem from="1676082126187" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -390,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675673738670</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="class">
+      <created>1675847692854</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1675847692854</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
