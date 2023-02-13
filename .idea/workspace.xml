@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="class">
+      <change afterPath="$PROJECT_DIR$/src/类与对象/方法递归调用/猴子吃桃.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/类与对象/方法递归调用/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/类与对象/方法递归调用/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/33993/Desktop/Java2dGeme&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zhong/桌面/JAVA-STU&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -54,7 +55,7 @@
     &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -63,13 +64,13 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Demo1">
-    <configuration name="基本数据传参机制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="类与对象.成员方法.基本数据传参机制" />
+  <component name="RunManager" selected="应用程序.猴子吃桃 (3)">
+    <configuration name="猴子吃桃 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="类与对象.成员方法.*" />
+          <option name="PATTERN" value="类与对象.方法递归调用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +78,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CloneMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="类与对象.成员方法.CloneMethod" />
+    <configuration name="猴子吃桃 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="类与对象.成员方法.*" />
+          <option name="PATTERN" value="类与对象.方法递归调用.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="猴子吃桃 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
+      <module name="JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="类与对象.方法递归调用.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="猴子吃桃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
+      <module name="JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="类与对象.方法递归调用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,38 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="类与对象.成员方法.Method1" />
-      <module name="JAVA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="类与对象.成员方法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="API.ScannerDemo" />
-      <module name="JAVA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="API.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.猴子吃桃 (3)" />
         <item itemvalue="应用程序.Demo1" />
-        <item itemvalue="应用程序.基本数据传参机制" />
-        <item itemvalue="应用程序.CloneMethod" />
-        <item itemvalue="应用程序.Method1 (2)" />
+        <item itemvalue="应用程序.猴子吃桃 (2)" />
+        <item itemvalue="应用程序.猴子吃桃 (1)" />
+        <item itemvalue="应用程序.猴子吃桃" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +218,12 @@
       <workItem from="1675839696383" duration="3614000" />
       <workItem from="1675908901767" duration="3539000" />
       <workItem from="1676082126187" duration="15000" />
+      <workItem from="1676272281747" duration="134000" />
+      <workItem from="1676272423995" duration="7000" />
+      <workItem from="1676272476268" duration="156000" />
+      <workItem from="1676289920551" duration="1572000" />
+      <workItem from="1676293849514" duration="52000" />
+      <workItem from="1676294852177" duration="6034000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -436,6 +444,30 @@
     <MESSAGE value="array" />
     <MESSAGE value="class" />
     <option name="LAST_COMMIT_MESSAGE" value="class" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/类与对象/方法递归调用/Demo1.java</url>
+          <line>9</line>
+          <properties class="类与对象.方法递归调用.T" method="test">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/类与对象/方法递归调用/猴子吃桃.java</url>
+          <line>15</line>
+          <properties class="类与对象.方法递归调用.t" method="peach">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
