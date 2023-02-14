@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="递归">
+      <changelist_data name="2390858916" email="2390858916@qq.com" />
       <change afterPath="$PROJECT_DIR$/src/递归/Demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -224,7 +225,7 @@
       <workItem from="1676293849514" duration="52000" />
       <workItem from="1676294852177" duration="6034000" />
       <workItem from="1676306722404" duration="171000" />
-      <workItem from="1676340069012" duration="2207000" />
+      <workItem from="1676340069012" duration="2548000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -422,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676306790923</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="递归">
+      <created>1676344659355</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1676344659355</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,21 +462,6 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/类与对象/方法递归调用/Demo1.java" />
     <MESSAGE value="递归" />
     <option name="LAST_COMMIT_MESSAGE" value="递归" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/递归/Demo1.java</url>
-          <line>9</line>
-          <properties class="递归.recursion" method="test">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
