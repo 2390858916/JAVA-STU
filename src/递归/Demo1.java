@@ -10,7 +10,7 @@ class recursion{
     //À´
     public void test(int num){
         if(num >2){
-            test(num -1);
+            test(num -2);
         }
         System.out.println(num);
     }
