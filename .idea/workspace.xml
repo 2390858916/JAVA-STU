@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="递归">
       <changelist_data name="2390858916" email="2390858916@qq.com" />
-      <change afterPath="$PROJECT_DIR$/src/递归/Demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/递归/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/递归/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
     &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -64,7 +64,7 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.递归.Demo1 (2)">
+  <component name="RunManager" selected="Application.Demo1">
     <configuration name="猴子吃桃 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
       <module name="JAVA1" />
@@ -130,15 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.递归.Demo1 (2)" />
-        <item itemvalue="应用程序.递归.Demo1" />
-        <item itemvalue="应用程序.递归.Demo1 (1)" />
-        <item itemvalue="应用程序.猴子吃桃 (3)" />
-        <item itemvalue="应用程序.Demo1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -226,6 +217,10 @@
       <workItem from="1676294852177" duration="6034000" />
       <workItem from="1676306722404" duration="171000" />
       <workItem from="1676340069012" duration="2548000" />
+      <workItem from="1676452803309" duration="698000" />
+      <workItem from="1676460764756" duration="1011000" />
+      <workItem from="1676462428360" duration="693000" />
+      <workItem from="1676463133349" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
