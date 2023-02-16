@@ -7,7 +7,7 @@ public class 猴子吃桃 {
         //第8天 (day9 +1) * 2 = 10
         //第一天 倒循环
         t t1 = new t();
-        int num = 5;
+        int num = 9;
         System.out.println(t1.peach(num));
     }
 

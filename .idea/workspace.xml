@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="递归" />
+    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="递归">
+      <change afterPath="$PROJECT_DIR$/src/递归/migong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/类与对象/方法递归调用/猴子吃桃.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/类与对象/方法递归调用/猴子吃桃.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/递归/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/递归/Demo1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,30 +43,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/zhong/桌面/JAVA-STU",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDK",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zhong/桌面/JAVA-STU&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo1">
+  <component name="RunManager" selected="应用程序.migong">
+    <configuration name="猴子吃桃 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
+      <module name="JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="类与对象.方法递归调用.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="猴子吃桃 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
+      <module name="JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="类与对象.方法递归调用.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="猴子吃桃 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
       <module name="JAVA1" />
@@ -75,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.Demo1" />
+    <configuration name="猴子吃桃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="递归.Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归.Demo1" />
+    <configuration name="migong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="递归.migong" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
@@ -101,32 +132,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="递归.Demo1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归.Demo1" />
-      <module name="JAVA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="递归.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="递归.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="递归.Demo1" />
-      <module name="JAVA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="递归.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.migong" />
+        <item itemvalue="应用程序.猴子吃桃 (3)" />
+        <item itemvalue="应用程序.猴子吃桃 (2)" />
+        <item itemvalue="应用程序.猴子吃桃 (1)" />
+        <item itemvalue="应用程序.猴子吃桃" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -220,6 +234,11 @@
       <workItem from="1676463133349" duration="653000" />
       <workItem from="1676514501241" duration="151000" />
       <workItem from="1676514659378" duration="209000" />
+      <workItem from="1676514878915" duration="43000" />
+      <workItem from="1676550634022" duration="240000" />
+      <workItem from="1676550888127" duration="2508000" />
+      <workItem from="1676603095896" duration="1163000" />
+      <workItem from="1676619909093" duration="14305000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -438,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676514708486</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="递归">
+      <created>1676514903379</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1676514903379</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
