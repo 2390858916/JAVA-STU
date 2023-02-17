@@ -18,7 +18,7 @@ public class migong {
         }
         for (int[] ints : map) {
             for (int anInt : ints) {
-                System.out.print(anInt + " ");
+                System.out.print(anInt + "  ");
             }
             System.out.println("  ");
         }
@@ -28,7 +28,7 @@ public class migong {
         mg.findway(map,1,1);
         for (int[] ints : map) {
             for (int anInt : ints) {
-                System.out.print(anInt + " ");
+                System.out.print(anInt + "  ");
             }
             System.out.println("  ");
         }
