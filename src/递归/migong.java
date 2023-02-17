@@ -18,9 +18,9 @@ public class migong {
         }
         for (int[] ints : map) {
             for (int anInt : ints) {
-                System.out.print(anInt + "  ");
+                System.out.print(anInt + " ");
             }
-            System.out.println("  ");
+            System.out.println(" ");
         }
         System.out.println(" ");
 
