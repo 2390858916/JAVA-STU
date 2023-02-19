@@ -17,7 +17,7 @@ class Overload{
         System.out.println(a * b);
     }
     public void methed(String a){
-        System.out.println(a);
+        System.out.println(a*a);
     }
 
 
