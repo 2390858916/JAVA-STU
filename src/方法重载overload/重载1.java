@@ -5,7 +5,7 @@ public class жиди1 {
         Overload o = new Overload();
         o.methed(6,108);
         o.methed(8);
-        o.methed("666");
+        o.methed("6666");
 
     }
 }
@@ -17,7 +17,9 @@ class Overload{
         System.out.println(a * b);
     }
     public void methed(String a){
-        System.out.println(a*a);
+        System.out.println(a);
+        System.out.println(a);
+
     }
 
 
