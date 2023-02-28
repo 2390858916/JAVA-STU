@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="递归3">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2022_12_27_8_45____.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2022_12_27_8_45____.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/方法重载overload/重载2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/方法重载overload/重载2.java" afterDir="false" />
+    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="递归5">
+      <change afterPath="$PROJECT_DIR$/src/可变参数/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/方法重载overload/重载2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,30 +43,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/JAVA-STU&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/JAVA-STU",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.customizations",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo3">
+  <component name="RunManager" selected="应用程序.Demo1">
     <configuration name="重载1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="方法重载overload.重载1" />
       <module name="JAVA1" />
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="方法重载overload.Demo3" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="可变参数.Demo1" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="方法重载overload.*" />
+          <option name="PATTERN" value="可变参数.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo3" />
-        <item itemvalue="Application.重载1" />
-        <item itemvalue="Application.重载1 (2)" />
-        <item itemvalue="Application.重载1 (1)" />
-        <item itemvalue="Application.递归.Demo1" />
+        <item itemvalue="应用程序.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +240,14 @@
       <workItem from="1676897156550" duration="847000" />
       <workItem from="1676898552467" duration="579000" />
       <workItem from="1676986842443" duration="748000" />
-      <workItem from="1677078103830" duration="683000" />
+      <workItem from="1677078103830" duration="783000" />
+      <workItem from="1677225415817" duration="9000" />
+      <workItem from="1677588352395" duration="22000" />
+      <workItem from="1677591902019" duration="156000" />
+      <workItem from="1677592076531" duration="30000" />
+      <workItem from="1677592124172" duration="19000" />
+      <workItem from="1677592157720" duration="241000" />
+      <workItem from="1677592417007" duration="2488000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1672145123195</created>
@@ -553,7 +557,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676899020836</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="递归5">
+      <created>1677079832751</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1677079832751</updated>
+    </task>
+    <task id="LOCAL-00046" summary="递归5">
+      <created>1677079892841</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1677079892841</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,7 +604,8 @@
     <MESSAGE value="递归" />
     <MESSAGE value="递归2" />
     <MESSAGE value="递归3" />
-    <option name="LAST_COMMIT_MESSAGE" value="递归3" />
+    <MESSAGE value="递归5" />
+    <option name="LAST_COMMIT_MESSAGE" value="递归5" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
