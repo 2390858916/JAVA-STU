@@ -24,6 +24,6 @@ class book{
         }
     }
     public void info(){
-        System.out.println("书名" + name + "价格" + price);
+        System.out.println("书名1" + name + "价格" + price);
     }
 }
