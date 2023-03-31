@@ -2,6 +2,7 @@ package ¼Ì³ÐDemo2;
 
 public class son extends fu{
     public son(){
+        super("tom",18);
         System.out.println("son");
     }
     public void saook(){

@@ -8,8 +8,11 @@ public class fu {
     public int returnn4(){
         return n4;
     }
-    public fu(){
-        System.out.println("base");
+//    public fu(){
+//        System.out.println("fu()");
+//    }
+    public fu(String name,int age){
+        System.out.println("fu(String name,int age)");
     }
     public void test100(){
         System.out.println("test100");
