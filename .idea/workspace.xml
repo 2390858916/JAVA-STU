@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/3/19 extends">
-      <change afterPath="$PROJECT_DIR$/src/继承Demo2/Extendtest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/继承Demo2/computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/继承Demo2/pc.java" afterDir="false" />
+    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/4/1 extends">
+      <change afterPath="$PROJECT_DIR$/src/super关键字/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/super关键字/fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/super关键字/son.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -281,14 +281,9 @@
       <workItem from="1680355009107" duration="590000" />
       <workItem from="1680424976317" duration="637000" />
       <workItem from="1680413635687" duration="8000" />
-      <workItem from="1680450129235" duration="2320000" />
-    </task>
-    <task id="LOCAL-00006" summary="re set">
-      <created>1673354071523</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1673354071523</updated>
+      <workItem from="1680450129235" duration="2473000" />
+      <workItem from="1680500462062" duration="771000" />
+      <workItem from="1680533015597" duration="1272000" />
     </task>
     <task id="LOCAL-00007" summary="re set">
       <created>1673354279071</created>
@@ -626,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680278614587</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="可变参数 2023/4/1 extends">
+      <created>1680452612996</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1680452612996</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -665,7 +667,8 @@
     <MESSAGE value="可变参数 2023/3/19" />
     <MESSAGE value="可变参数 2023/3/19 this" />
     <MESSAGE value="可变参数 2023/3/19 extends" />
-    <option name="LAST_COMMIT_MESSAGE" value="可变参数 2023/3/19 extends" />
+    <MESSAGE value="可变参数 2023/4/1 extends" />
+    <option name="LAST_COMMIT_MESSAGE" value="可变参数 2023/4/1 extends" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
