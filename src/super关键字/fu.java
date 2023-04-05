@@ -19,6 +19,9 @@ public class fu {
     public fu(String name,int age){
         System.out.println("fu(String name,int age)");
     }
+    public void cal(){
+        System.out.println("fu类的cal方法");
+    }
     public void test100(){
         System.out.println("test100");
     }
