@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/4/5 extends">
-      <change afterPath="$PROJECT_DIR$/src/方法重载override/animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/方法重载override/dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/方法重载override/override.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/方法重载override/Pserson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/方法重载override/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/方法重载override/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/JAVA-STU&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zhong/桌面/JAVA-STU&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,20 +70,7 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.override">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Extends.extendsDemo.Demo" />
-      <module name="JAVA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Extends.extendsDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.main">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="super关键字.Demo1" />
       <module name="JAVA1" />
@@ -122,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="方法重载override.main" />
+      <module name="JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="方法重载override.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="override" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="方法重载override.override" />
       <module name="JAVA1" />
@@ -137,11 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.override" />
-        <item itemvalue="应用程序.Demo1" />
-        <item itemvalue="应用程序.demo" />
-        <item itemvalue="应用程序.Demo" />
-        <item itemvalue="应用程序.TestAccount" />
+        <item itemvalue="应用程序.main" />
       </list>
     </recent_temporary>
   </component>
@@ -287,6 +284,12 @@
       <workItem from="1680500462062" duration="771000" />
       <workItem from="1680533015597" duration="1574000" />
       <workItem from="1680702634309" duration="3744000" />
+      <workItem from="1680947857165" duration="150000" />
+      <workItem from="1680955456295" duration="15000" />
+      <workItem from="1680963437953" duration="214000" />
+      <workItem from="1680965569553" duration="648000" />
+      <workItem from="1680966937259" duration="38000" />
+      <workItem from="1680966985774" duration="1065000" />
     </task>
     <task id="LOCAL-00009" summary="int tran string">
       <created>1673427106791</created>
