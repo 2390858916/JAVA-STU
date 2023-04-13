@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/4/5 extends">
-      <change afterPath="$PROJECT_DIR$/src/算法作业/Demo2/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/算法作业/demo0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2022_12_27_8_45____.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2022_12_27_8_45____.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/bone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/poly01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,20 +74,7 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.demo1">
-    <configuration name="猴子吃桃 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
-      <module name="JAVA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="类与对象.方法递归调用.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.poly01">
     <configuration name="猴子吃桃 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
       <module name="JAVA1" />
@@ -136,13 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="poly01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多态.poly01" />
+      <module name="JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="多态.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.poly01" />
         <item itemvalue="Application.demo1" />
         <item itemvalue="Application.猴子吃桃 (4)" />
         <item itemvalue="Application.猴子吃桃" />
         <item itemvalue="Application.猴子吃桃 (3)" />
-        <item itemvalue="Application.猴子吃桃 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -298,13 +302,10 @@
       <workItem from="1681098253941" duration="4129000" />
       <workItem from="1681216129950" duration="604000" />
       <workItem from="1681224892697" duration="26000" />
-    </task>
-    <task id="LOCAL-00009" summary="int tran string">
-      <created>1673427106791</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1673427106791</updated>
+      <workItem from="1681224930391" duration="60000" />
+      <workItem from="1681313371518" duration="620000" />
+      <workItem from="1681397093230" duration="590000" />
+      <workItem from="1681398544012" duration="1387000" />
     </task>
     <task id="LOCAL-00010" summary="Date">
       <created>1673449273788</created>
@@ -642,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680706554220</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="可变参数 2023/4/5 extends">
+      <created>1681224969746</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1681224969747</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
