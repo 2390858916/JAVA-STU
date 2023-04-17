@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/4/5 extends">
-      <change afterPath="$PROJECT_DIR$/src/多态/polyoverr/animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多态/polyoverr/cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多态/polyoverr/dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多态/polyoverr/poly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2022_12_27_8_45____.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2022_12_27_8_45____.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/detail/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/detail/cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/detail/poly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/rice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/多态/master.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多态/master.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/多态/poly01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多态/poly01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.poly">
+  <component name="RunManager" selected="应用程序.poly01">
     <configuration name="猴子吃桃 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
       <module name="JAVA1" />
@@ -116,7 +118,7 @@
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="多态.polyoverr.*" />
+          <option name="PATTERN" value="多态.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,6 +141,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.poly01" />
         <item itemvalue="应用程序.poly" />
       </list>
     </recent_temporary>
@@ -299,14 +302,7 @@
       <workItem from="1681313371518" duration="620000" />
       <workItem from="1681397093230" duration="590000" />
       <workItem from="1681398544012" duration="1387000" />
-      <workItem from="1681735859259" duration="379000" />
-    </task>
-    <task id="LOCAL-00010" summary="Date">
-      <created>1673449273788</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1673449273788</updated>
+      <workItem from="1681735859259" duration="3383000" />
     </task>
     <task id="LOCAL-00011" summary="xunhuan">
       <created>1673510677884</created>
@@ -644,7 +640,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681224969747</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="可变参数 2023/4/5 extends">
+      <created>1681736322781</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1681736322782</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
