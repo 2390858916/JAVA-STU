@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/4/5 extends">
-      <change afterPath="$PROJECT_DIR$/src/多态/detail/animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多态/detail/cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多态/detail/poly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多态/pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多态/rice.java" afterDir="false" />
+    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/4/18 duotai">
+      <change afterPath="$PROJECT_DIR$/src/多态/detail/dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/多态/master.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多态/master.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/多态/poly01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多态/poly01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/多态/detail/poly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多态/detail/poly.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.poly01">
+  <component name="RunManager" selected="应用程序.多态.detail.poly">
     <configuration name="猴子吃桃 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
       <module name="JAVA1" />
@@ -100,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="猴子吃桃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
+    <configuration name="多态.detail.poly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多态.detail.poly" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="类与对象.方法递归调用.*" />
+          <option name="PATTERN" value="多态.detail.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.多态.detail.poly" />
         <item itemvalue="应用程序.poly01" />
         <item itemvalue="应用程序.poly" />
       </list>
@@ -302,21 +299,8 @@
       <workItem from="1681313371518" duration="620000" />
       <workItem from="1681397093230" duration="590000" />
       <workItem from="1681398544012" duration="1387000" />
-      <workItem from="1681735859259" duration="3383000" />
-    </task>
-    <task id="LOCAL-00011" summary="xunhuan">
-      <created>1673510677884</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1673510677884</updated>
-    </task>
-    <task id="LOCAL-00012" summary="for">
-      <created>1673522941733</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1673522941733</updated>
+      <workItem from="1681735859259" duration="4053000" />
+      <workItem from="1681813561606" duration="2986000" />
     </task>
     <task id="LOCAL-00013" summary="for">
       <created>1673527184504</created>
@@ -647,7 +631,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681736322782</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="可变参数 2023/4/5 extends">
+      <created>1681739344389</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1681739344390</updated>
+    </task>
+    <task id="LOCAL-00061" summary="可变参数 2023/4/18 duotai">
+      <created>1681822508633</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1681822508634</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -688,7 +686,8 @@
     <MESSAGE value="可变参数 2023/3/19 extends" />
     <MESSAGE value="可变参数 2023/4/1 extends" />
     <MESSAGE value="可变参数 2023/4/5 extends" />
-    <option name="LAST_COMMIT_MESSAGE" value="可变参数 2023/4/5 extends" />
+    <MESSAGE value="可变参数 2023/4/18 duotai" />
+    <option name="LAST_COMMIT_MESSAGE" value="可变参数 2023/4/18 duotai" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
