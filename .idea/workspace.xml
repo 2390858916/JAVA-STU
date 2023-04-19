@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/4/18 duotai">
-      <change afterPath="$PROJECT_DIR$/src/多态/detail/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shixun/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shixun/mains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/动态绑定/bind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/多态/detail/poly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多态/detail/poly.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +75,13 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.多态.detail.poly">
-    <configuration name="猴子吃桃 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
+  <component name="RunManager" selected="应用程序.bind (1)">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shixun.duotai.Demo" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="类与对象.方法递归调用.*" />
+          <option name="PATTERN" value="shixun.duotai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="猴子吃桃 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="类与对象.方法递归调用.猴子吃桃" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="super关键字.Demo1" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="类与对象.方法递归调用.*" />
+          <option name="PATTERN" value="super关键字.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="多态.detail.poly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多态.detail.poly" />
+    <configuration name="bind (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多态.动态绑定.bind" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="多态.detail.*" />
+          <option name="PATTERN" value="多态.动态绑定.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="poly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多态.polyoverr.poly" />
+    <configuration name="bind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多态.动态绑定.bind" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="多态.*" />
+          <option name="PATTERN" value="多态.动态绑定.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="poly01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多态.poly01" />
+    <configuration name="mains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shixun.mains" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="多态.*" />
+          <option name="PATTERN" value="shixun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,9 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.多态.detail.poly" />
-        <item itemvalue="应用程序.poly01" />
-        <item itemvalue="应用程序.poly" />
+        <item itemvalue="应用程序.bind (1)" />
+        <item itemvalue="应用程序.bind" />
+        <item itemvalue="应用程序.Demo" />
+        <item itemvalue="应用程序.Demo1" />
+        <item itemvalue="应用程序.mains" />
       </list>
     </recent_temporary>
   </component>
@@ -300,14 +308,9 @@
       <workItem from="1681397093230" duration="590000" />
       <workItem from="1681398544012" duration="1387000" />
       <workItem from="1681735859259" duration="4053000" />
-      <workItem from="1681813561606" duration="2986000" />
-    </task>
-    <task id="LOCAL-00013" summary="for">
-      <created>1673527184504</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1673527184504</updated>
+      <workItem from="1681813561606" duration="4396000" />
+      <workItem from="1681884388629" duration="7065000" />
+      <workItem from="1681912798857" duration="2775000" />
     </task>
     <task id="LOCAL-00014" summary="for">
       <created>1673586417363</created>
@@ -645,7 +648,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681822508634</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="可变参数 2023/4/18 duotai">
+      <created>1681823350426</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1681823350426</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
