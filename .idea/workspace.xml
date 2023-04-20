@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/4/18 duotai">
-      <change afterPath="$PROJECT_DIR$/src/shixun/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shixun/mains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多态/动态绑定/bind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shixun/day2/集合.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Ddmo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/maopao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/集合/CollectionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/多态/animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多态/animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,9 +72,35 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.bind (1)">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shixun.duotai.Demo" />
+  <component name="RunManager" selected="应用程序.CollectionDemo">
+    <configuration name="冒泡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序.冒泡" />
+      <module name="JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="集合.CollectionDemo" />
+      <module name="JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="集合.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ddmo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shixun.duotai.Ddmo02" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="super关键字.Demo1" />
+    <configuration name="集合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shixun.day2.集合" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="super关键字.*" />
+          <option name="PATTERN" value="shixun.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bind (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多态.动态绑定.bind" />
+    <configuration name="集合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shixun.day2.集合" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="多态.动态绑定.*" />
+          <option name="PATTERN" value="shixun.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多态.动态绑定.bind" />
+    <configuration name="interfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterFaceDemo.interfaceDemo2.interfaceDemo" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="多态.动态绑定.*" />
+          <option name="PATTERN" value="InterFaceDemo.interfaceDemo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shixun.mains" />
+    <configuration name="maopao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shixun.duotai.maopao" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shixun.*" />
+          <option name="PATTERN" value="shixun.duotai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.bind (1)" />
-        <item itemvalue="应用程序.bind" />
-        <item itemvalue="应用程序.Demo" />
-        <item itemvalue="应用程序.Demo1" />
-        <item itemvalue="应用程序.mains" />
+        <item itemvalue="应用程序.CollectionDemo" />
+        <item itemvalue="应用程序.Ddmo02" />
+        <item itemvalue="应用程序.maopao" />
+        <item itemvalue="应用程序.冒泡" />
+        <item itemvalue="应用程序.interfaceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -310,14 +333,12 @@
       <workItem from="1681735859259" duration="4053000" />
       <workItem from="1681813561606" duration="4396000" />
       <workItem from="1681884388629" duration="7065000" />
-      <workItem from="1681912798857" duration="2775000" />
-    </task>
-    <task id="LOCAL-00014" summary="for">
-      <created>1673586417363</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1673586417363</updated>
+      <workItem from="1681912798857" duration="2811000" />
+      <workItem from="1681951865453" duration="3419000" />
+      <workItem from="1681961497119" duration="16000" />
+      <workItem from="1681970279955" duration="6515000" />
+      <workItem from="1681993365308" duration="976000" />
+      <workItem from="1681998825354" duration="2163000" />
     </task>
     <task id="LOCAL-00015" summary="for">
       <created>1674099230716</created>
@@ -655,7 +676,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681823350426</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="可变参数 2023/4/18 duotai">
+      <created>1681916863216</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1681916863216</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
