@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/4/18 duotai">
-      <change afterPath="$PROJECT_DIR$/src/shixun/day2/集合.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/Ddmo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shixun/duotai/maopao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/集合/CollectionDemo.java" afterDir="false" />
+    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/4/18 集合">
+      <change afterPath="$PROJECT_DIR$/src/多态/多态数组/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/多态数组/PolyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/多态数组/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/多态数组/Teach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/多态/animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/多态/animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
     &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -72,7 +71,7 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.CollectionDemo">
+  <component name="RunManager" selected="应用程序.PolyArray">
     <configuration name="冒泡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="排序.冒泡" />
       <module name="JAVA1" />
@@ -112,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="集合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shixun.day2.集合" />
+    <configuration name="PolyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多态.多态数组.PolyArray" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shixun.day2.*" />
+          <option name="PATTERN" value="多态.多态数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterFaceDemo.interfaceDemo2.interfaceDemo" />
+    <configuration name="集合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shixun.day2.集合" />
       <module name="JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterFaceDemo.interfaceDemo2.*" />
+          <option name="PATTERN" value="shixun.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.PolyArray" />
         <item itemvalue="应用程序.CollectionDemo" />
         <item itemvalue="应用程序.Ddmo02" />
         <item itemvalue="应用程序.maopao" />
         <item itemvalue="应用程序.冒泡" />
-        <item itemvalue="应用程序.interfaceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -338,14 +337,11 @@
       <workItem from="1681961497119" duration="16000" />
       <workItem from="1681970279955" duration="6515000" />
       <workItem from="1681993365308" duration="976000" />
-      <workItem from="1681998825354" duration="2163000" />
-    </task>
-    <task id="LOCAL-00015" summary="for">
-      <created>1674099230716</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1674099230716</updated>
+      <workItem from="1681998825354" duration="2228000" />
+      <workItem from="1682036936913" duration="807000" />
+      <workItem from="1682940188934" duration="704000" />
+      <workItem from="1683687979891" duration="18000" />
+      <workItem from="1683807333576" duration="2554000" />
     </task>
     <task id="LOCAL-00016" summary="for">
       <created>1674099372834</created>
@@ -683,7 +679,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681916863216</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="可变参数 2023/4/18 集合">
+      <created>1682001777715</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1682001777716</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -725,7 +728,8 @@
     <MESSAGE value="可变参数 2023/4/1 extends" />
     <MESSAGE value="可变参数 2023/4/5 extends" />
     <MESSAGE value="可变参数 2023/4/18 duotai" />
-    <option name="LAST_COMMIT_MESSAGE" value="可变参数 2023/4/18 duotai" />
+    <MESSAGE value="可变参数 2023/4/18 集合" />
+    <option name="LAST_COMMIT_MESSAGE" value="可变参数 2023/4/18 集合" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
