@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/4/18 集合">
-      <change afterPath="$PROJECT_DIR$/src/多态/多态数组/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多态/多态数组/PolyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多态/多态数组/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/多态/多态数组/Teach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="a5002a07-884f-4c46-be67-8e1f1935c595" name="变更" comment="可变参数 2023/5 多态数组">
+      <change afterPath="$PROJECT_DIR$/src/多态/多态数组2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/多态数组2/Manger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/多态数组2/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/多态/多态数组2/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,20 +70,7 @@
       <recent name="Arraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.PolyArray">
-    <configuration name="冒泡" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序.冒泡" />
-      <module name="JAVA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.demo">
     <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="集合.CollectionDemo" />
       <module name="JAVA1" />
@@ -150,6 +136,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多态.多态数组2.demo" />
+      <module name="JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="多态.多态数组2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="maopao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shixun.duotai.maopao" />
       <module name="JAVA1" />
@@ -165,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.demo" />
         <item itemvalue="应用程序.PolyArray" />
         <item itemvalue="应用程序.CollectionDemo" />
         <item itemvalue="应用程序.Ddmo02" />
         <item itemvalue="应用程序.maopao" />
-        <item itemvalue="应用程序.冒泡" />
       </list>
     </recent_temporary>
   </component>
@@ -341,14 +340,11 @@
       <workItem from="1682036936913" duration="807000" />
       <workItem from="1682940188934" duration="704000" />
       <workItem from="1683687979891" duration="18000" />
-      <workItem from="1683807333576" duration="2554000" />
-    </task>
-    <task id="LOCAL-00016" summary="for">
-      <created>1674099372834</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1674099372834</updated>
+      <workItem from="1683807333576" duration="2729000" />
+      <workItem from="1683883368337" duration="609000" />
+      <workItem from="1683958993345" duration="1188000" />
+      <workItem from="1683976657594" duration="23000" />
+      <workItem from="1684161718764" duration="2721000" />
     </task>
     <task id="LOCAL-00017" summary="do_while">
       <created>1674790877363</created>
@@ -686,7 +682,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682001777716</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="可变参数 2023/5 多态数组">
+      <created>1683810008943</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1683810008944</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -704,7 +707,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="COMMIT" />
     <MESSAGE value="first commit" />
     <MESSAGE value="arrays" />
     <MESSAGE value="re set" />
@@ -729,7 +731,8 @@
     <MESSAGE value="可变参数 2023/4/5 extends" />
     <MESSAGE value="可变参数 2023/4/18 duotai" />
     <MESSAGE value="可变参数 2023/4/18 集合" />
-    <option name="LAST_COMMIT_MESSAGE" value="可变参数 2023/4/18 集合" />
+    <MESSAGE value="可变参数 2023/5 多态数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="可变参数 2023/5 多态数组" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
